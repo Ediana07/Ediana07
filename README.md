@@ -1,6 +1,6 @@
 ## Olá! Eu sou Mª Ediana Ramos  👋
 
-- 🔭 Hoje trabalho como projetista numa multinacional do setor elétrico
+- 🔭 Atualmente trabalho em uma área técnica como projetista numa multinacional do setor elétrico
 - 🌱 Estudando Data Science & Analytics (USP/ESALQ)
 - 💬 Iniciando na área de Análise e Ciência de Dados e por isso estou a procura de compartilhar conhecimentos e criar network
 - 📫 Contate-me no email ediana07@hotmail.com
