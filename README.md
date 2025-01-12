@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho em uma área técnica como projetista de rede de distribuição numa multinacional do setor elétrico
 - 🌱 Estudando Data Science & Analytics (USP/ESALQ)
-- 💬 Me sinto motivada e feliz em aprender sobre Análise e Ciência de Dados e por isso estou a procura de compartilhar conhecimentos e criar network
+- 💬 Sinto-me motivada e feliz em aprender sobre Análise e Ciência de Dados e por isso estou a procura de compartilhar conhecimentos e criar network
 - 📫 Contate-me no email ediana07@hotmail.com
 - 😄 Pronome: ela/dela
 
